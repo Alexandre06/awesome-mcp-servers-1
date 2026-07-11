@@ -511,6 +511,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ### Server Managers
 
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
+- [Opedd](https://github.com/Opedd/opedd-mcp) - Licensed, rights-cleared content for AI agents — search, purchase, and retrieve expert analysis with a verifiable license key per article, on-chain proof, and EU AI Act attestation. Hosted (`https://mcp.opedd.com/mcp`) or `npx opedd-mcp`.
   - Supports NPM-based servers
   - Automatic configuration generation
   - Easy server management
